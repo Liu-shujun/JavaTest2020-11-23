@@ -105,10 +105,12 @@ public String s(){
 
 ![](https://github.com/Liu-shujun/JavaTest2020-11-23/blob/main/%E6%8D%95%E8%8E%B75.PNG)
 
-(2)
+
 ![](https://github.com/Liu-shujun/JavaTest2020-11-23/blob/main/%E6%8D%95%E8%8E%B76.PNG)
 
+## 编程感想
 
+在本次实验中，虽然遇到了许多困难，但通过与同学交流，询问老师解决了各种难题。学会了使用输入/输出流，写入/读取数据；充分掌握了字符串String的使用；对于try-catch的异常处理使用的更加得心应手。通过自己动手实践，学习到了许多知识，受益匪浅。
 
 
 
