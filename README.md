@@ -24,16 +24,16 @@
 ## 实验过程
 1.编写student类
 
-(1)属性：name(姓名)，major(专业)，stuNum(学号)，age(年龄)
+   (1)属性：name(姓名)，major(专业)，stuNum(学号)，age(年龄)
 
-(2)通过Scanner类实例化学生信息，将学生信息输入进去
+   (2)通过Scanner类实例化学生信息，将学生信息输入进去
 
 2.编写test(测试)类
 
-(1)通过Fileinputstream读取文本文件B
+   (1)通过Fileinputstream读取文本文件B
 
-(2)将学生信息转化成字符数组存入文本文件A中
+   (2)将学生信息转化成字符数组存入文本文件A中
 
-(3)使用for循环，if-else语句将诗句按照规定的格式存入文本文件B中
+   (3)使用for循环，if-else语句将诗句按照规定的格式存入文本文件B中
 
-(4)try-catch语句进行异常处理
+   (4)try-catch语句进行异常处理
