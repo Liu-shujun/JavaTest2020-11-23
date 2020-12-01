@@ -101,6 +101,13 @@ public String s(){
              }
 ```
 
+## 系统运行截图
+
+![](https://github.com/Liu-shujun/JavaTest2020-11-23/blob/main/%E6%8D%95%E8%8E%B75.PNG)
+
+(2)
+![](https://github.com/Liu-shujun/JavaTest2020-11-23/blob/main/%E6%8D%95%E8%8E%B76.PNG)
+
 
 
 
